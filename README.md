@@ -3,11 +3,7 @@
 # Car Price Prediction Using Machine Learning
 This repository contains a machine learning model to predict car prices based on various features such as make, model, year, mileage, and more. The project was developed as part of my internship task at Internpe. The goal of this project was to implement a regression model that can accurately estimate the market price of a car using machine learning techniques.
 
-# Table of Contents
-Features
-Libraries Used
-Model Evaluation
-Project Objectives
+
 # Features:
 Data preprocessing including handling missing values and encoding categorical variables.
 XGBoost Regressor used for model building.
